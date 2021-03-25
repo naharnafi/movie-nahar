@@ -3,3 +3,6 @@
     padding: 0;
     background: linear-gradient(-30deg, red 0%, white 50%, lightblue 50%, gray 100%) ;
 }
+.homepage-body {
+    margin-top: 100px;
+}
