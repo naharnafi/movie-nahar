@@ -1,0 +1,31 @@
+.overview {
+  margin: 50px 0;
+}
+.overview h5 {
+  color: #fe024e;
+}
+.review {
+  display: flex;
+  margin: 50px 0;
+}
+.review-img img {
+  width: 50px;
+  border-radius: 5px;
+}
+.review-form label {
+  margin: 0;
+  font-weight: 600;
+}
+.btn-review {
+  border: 1px solid #fe024e;
+  background-color: #fe024e;
+  border-radius: 5px;
+  color: white;
+  font-weight: 600;
+  display: flex;
+  justify-content: flex-end;
+}
+.btn-review:hover {
+  border: 1px solid #eb507f;
+  background-color: #eb507f;
+}

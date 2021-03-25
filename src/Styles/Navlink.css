@@ -1,0 +1,51 @@
+.btn-genre {
+  font-weight: 700;
+  font-size: 16px;
+  /* margin: 0 20px 20px 0; */
+  padding: 2px 16px;
+  color: #eb507f;
+  /* background-color: white; */
+  background-color: transparent;
+  border: 0px;
+}
+.btn-genre:hover {
+  border: 2px solid #eb507f;
+  border-radius: 40px;
+  color: #eb507f;
+  width: 120px;
+  text-decoration: none;
+}
+
+.btn-genre-active {
+  font-weight: 700;
+  border: 1px solid #eb507f;
+  border-radius: 40px;
+  background-color: #eb507f;
+  color: white;
+  text-decoration: none;
+  padding: 2px 16px;
+  margin: 0 20px 20px 0;
+}
+.btn-genre-active:hover {
+  color: white;
+  width: 120px;
+}
+.btn-page {
+  font-weight: 700;
+  font-size: 16px;
+  /* color: #eb507f; */
+  color: white;
+  /* background-color: white; */
+  background-color: transparent;
+  border: 2px solid white;
+}
+.btn-page:hover {
+  background-color: #eb507f;
+  color: white;
+  border-color: #eb507f;
+}
+.btn-page-active {
+  /* background-color: #eb507f; */
+  /* background-color: transparent; */
+  color: white;
+}
